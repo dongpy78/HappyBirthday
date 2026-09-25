@@ -1,4 +1,4 @@
-const correctPass = "2502";
+const correctPass = "1210";
 let enteredPass = "";
 const dots = document.querySelectorAll(".dot");
 const keys = document.querySelectorAll(".key[data-value]");
